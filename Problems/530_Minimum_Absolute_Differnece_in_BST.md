@@ -6,7 +6,7 @@ Given the root of a Binary Search Tree (BST), return the minimum absolute differ
 * 從得到的陣列中，計算相鄰兩數的差求最小值
 
 # Code:
-```cpp=1
+```cpp
 class Solution
 {
 public:
