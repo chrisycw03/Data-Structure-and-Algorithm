@@ -13,7 +13,7 @@ In Pascal's triangle, each number is the sum of the two numbers directly above i
 * 實際提交的結果方法二要快於方法一
 
 # Code
-```c=1
+```c
 // 想法一
 // 計算組合C i取j
 int Conbination(int i, int j)
@@ -45,7 +45,7 @@ int* getRow(int rowIndex, int* returnSize)
     return ans;
 }
 ```
-```c=1
+```c
 //想法二
 int* getRow(int rowIndex, int* returnSize)
 {
