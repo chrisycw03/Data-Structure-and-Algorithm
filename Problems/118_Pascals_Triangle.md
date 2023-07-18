@@ -1,6 +1,6 @@
-# Problem
+# Description
 
-* Given an integer numRows, return the first numRows of Pascal's triangle.
+Given an integer numRows, return the first numRows of Pascal's triangle.
 
 In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
 
@@ -11,7 +11,7 @@ In Pascal's triangle, each number is the sum of the two numbers directly above i
 # Code
 
 * C++
-```cpp=1
+```cpp
 class Solution
 {
 public:
@@ -33,7 +33,7 @@ public:
 ```
 
 * C
-```c=1
+```c
 int** generate(int numRows, int* returnSize, int** returnColumnSizes)
 {
     *returnSize = numRows;

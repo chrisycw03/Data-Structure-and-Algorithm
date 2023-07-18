@@ -14,7 +14,7 @@ Given an integer array nums, find the subarray with the largest sum, and return 
 # Code
 
 * C++
-```cpp=1
+```cpp
 class Solution
 {
 public:
@@ -39,7 +39,7 @@ public:
 ```
 
 * C
-```c=1
+```c
 int maxSubArray(int* nums, int numsSize)
 {
     int maxSum[numsSize];
