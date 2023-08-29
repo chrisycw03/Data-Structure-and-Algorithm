@@ -9,7 +9,7 @@ Given the head of a singly linked list, return true if it is a palindrome or fal
 
 # Thoughts
 
-- 利用一個陣列依序紀錄Linked List的值，再從陣列最後開始與Linked List比較，判斷是否為palindrome
+- 利用一個陣列依序紀錄Linked List的值，再從陣列尾端往頭端與Linked List比較，判斷是否為palindrome
 ```c
 bool isPalindrome(struct ListNode* head){
 
