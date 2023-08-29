@@ -32,6 +32,8 @@
 - [Number of 1 Bits](https://github.com/chrisycw03/Data-Structure-and-Algorithm/blob/master/Problems/191(Bit_Manipulation)_Number_of_1_Bits.md)
 - [Power of Two](https://github.com/chrisycw03/Data-Structure-and-Algorithm/blob/master/Problems/231(Bit_Manipulation)_Power_of_Two.md)
 - [Add Binary](https://github.com/chrisycw03/Data-Structure-and-Algorithm/blob/master/Problems/67(Bit_Manipulation)_Add_Binary.md)
+- [Missing Number](https://github.com/chrisycw03/Data-Structure-and-Algorithm/blob/master/Problems/268(Bit_Manipulation)_Missing_Number.md)
+- [Counting Bits](https://github.com/chrisycw03/Data-Structure-and-Algorithm/blob/master/Problems/338(Bit_Manipulation)_Counting_Bits.md)
 
 ## Tree
 
@@ -54,6 +56,7 @@
 - [Pascals Trinagle II](https://github.com/chrisycw03/Data-Structure-and-Algorithm/blob/master/Problems/119(DP)_Pascals_Triangle_II.md)
 - [Best Time to Buy and Sell Stock](https://github.com/chrisycw03/Data-Structure-and-Algorithm/blob/master/Problems/121(DP)_Best_Time_to_Buy_and_Sell_Stock.md)
 - [Maximum Subarray](https://github.com/chrisycw03/Data-Structure-and-Algorithm/blob/master/Problems/53(DP)_Maximun_Subarray.md)
+- [Fibonacci Number](https://github.com/chrisycw03/Data-Structure-and-Algorithm/blob/master/Problems/509(DP)_Fibonacci_Number.md)
 
 ## Hash Table
 
@@ -82,3 +85,4 @@
 - [Plus One](https://github.com/chrisycw03/Data-Structure-and-Algorithm/blob/master/Problems/66_Plus_One.md)
 - [Squirt(x)](https://github.com/chrisycw03/Data-Structure-and-Algorithm/blob/master/Problems/69_Sqirt(x).md)
 - [Palindrome Number](https://github.com/chrisycw03/Data-Structure-and-Algorithm/blob/master/Problems/9_Palindrome_Number.md)
+- [In Subsequence](https://github.com/chrisycw03/Data-Structure-and-Algorithm/blob/master/Problems/392_In_Subsequence.md)
