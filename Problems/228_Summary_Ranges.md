@@ -20,7 +20,10 @@ Each range [a,b] in the list should be output as:
 
 # Thoughts
 
-- 利用Hash Table紀錄元素，用另一個陣列紀錄上次同一元素出現的位置，判斷是否滿足條件
+- 遍歷陣列
+	- 判斷當前元素是否與上一個元素連續
+	- 利用start跟end兩個變量紀錄連續元素的起點跟終點
+- 利用sprintf格式化輸出結果
 
 ```c
 char ** summaryRanges(int* nums, int numsSize, int* returnSize){
