@@ -5,10 +5,10 @@ You must write an algorithm with O(log n) runtime complexity.
 
 # Constraints
 
-- 1 <= nums.length <= 104
-- -104 <= nums[i] <= 104
+- 1 <= nums.length <= 10<sup>4</sup>
+- -10<sup>4</sup> <= nums[i] <= 10<sup>4</sup>
 - nums contains distinct values sorted in ascending order.
-- -104 <= target <= 104
+- -10<sup>4</sup> <= target <= 10<sup>4</sup>
 
 # Thoughts
 
