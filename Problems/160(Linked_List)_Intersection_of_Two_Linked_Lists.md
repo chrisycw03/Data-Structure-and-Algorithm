@@ -2,14 +2,12 @@
 
 Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
 
-For example, the following two linked lists begin to intersect at node c1:
-
 # Constraints
 
 - The number of nodes of listA is in the m.
 - The number of nodes of listB is in the n.
-- 1 <= m, n <= 3 * 104
-- 1 <= Node.val <= 105
+- 1 <= m, n <= 3 * 10<sup>4</sup>
+- 1 <= Node.val <= 10<sup>5</sup>
 - 0 <= skipA < m
 - 0 <= skipB < n
 - intersectVal is 0 if listA and listB do not intersect.

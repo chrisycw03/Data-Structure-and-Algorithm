@@ -2,6 +2,11 @@
 
 Given an integer array nums, find the subarray with the largest sum, and return its sum.
 
+# Constraints
+
+- 1 <= nums.length <= 10<sup>5</sup>
+- -10<sup>4 <= nums[i] <= 10<sup>4</sup>
+
 # Thought
 
 * 運用Dynamic Programing

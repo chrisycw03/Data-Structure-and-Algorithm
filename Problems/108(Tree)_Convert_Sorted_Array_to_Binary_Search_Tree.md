@@ -4,8 +4,8 @@ Given an integer array nums where the elements are sorted in ascending order, co
 
 # Constraints
 
-- 1 <= nums.length <= 104
-- -104 <= nums[i] <= 104
+- 1 <= nums.length <= 10<sup>4</sup>
+- -10<sup>4</sup> <= nums[i] <= 10<sup>4</sup>
 - nums is sorted in a strictly increasing order.
 
 # Thoughts

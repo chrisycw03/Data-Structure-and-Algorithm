@@ -4,7 +4,7 @@ Given two strings needle and haystack, return the index of the first occurrence 
 
 # Constraints
 
-- 1 <= haystack.length, needle.length <= 104
+- 1 <= haystack.length, needle.length <= 10<sup>4</sup>
 - haystack and needle consist of only lowercase English characters.
 
 # Thoughts

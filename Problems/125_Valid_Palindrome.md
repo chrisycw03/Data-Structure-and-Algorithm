@@ -5,7 +5,7 @@ Given a string s, return true if it is a palindrome, or false otherwise.
 
 # Constraints
 
-- 1 <= s.length <= 2 * 105
+- 1 <= s.length <= 2 * 10<sup>5</sup>
 - s consists only of printable ASCII characters.
 
 # Thoughts

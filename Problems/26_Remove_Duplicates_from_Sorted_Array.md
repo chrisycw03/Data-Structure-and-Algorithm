@@ -7,7 +7,7 @@ Consider the number of unique elements of nums to be k, to get accepted, you nee
 
 # Constraints
 
-- 1 <= nums.length <= 3 * 104
+- 1 <= nums.length <= 3 * 10<sup>4</sup>
 - -100 <= nums[i] <= 100
 - nums is sorted in non-decreasing order.
 

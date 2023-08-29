@@ -11,7 +11,7 @@ Return true if n is a happy number, and false if not.
 
 # Constraints
 
-- 1 <= n <= 2^31 - 1
+- 1 <= n <= 2<sup>31</sup> - 1
 
 # Thoughts
 

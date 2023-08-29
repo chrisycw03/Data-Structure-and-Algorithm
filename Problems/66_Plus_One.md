@@ -12,6 +12,10 @@ Increment the large integer by one and return the resulting array of digits.
 
 # Thoughts
 
+- 判斷每一位是否進位
+- 判斷最高位是否需要進位，如果需要進位，則需要動態宣告一個新的陣列比原陣列長度多1
+	- 最高位的值為1
+
 ```c
 int* plusOne(int* digits, int digitsSize, int* returnSize){
 	
