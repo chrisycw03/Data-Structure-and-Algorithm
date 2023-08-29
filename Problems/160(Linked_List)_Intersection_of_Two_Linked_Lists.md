@@ -6,8 +6,8 @@ Given the heads of two singly linked-lists headA and headB, return the node at w
 
 - The number of nodes of listA is in the m.
 - The number of nodes of listB is in the n.
-- 1 <= m, n <= 3 * 104
-- 1 <= Node.val <= 105
+- 1 <= m, n <= 3 * 10^4
+- 1 <= Node.val <= 10^5
 - 0 <= skipA < m
 - 0 <= skipB < n
 - intersectVal is 0 if listA and listB do not intersect.
