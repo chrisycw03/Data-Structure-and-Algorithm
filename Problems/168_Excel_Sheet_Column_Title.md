@@ -4,7 +4,7 @@ Given an integer columnNumber, return its corresponding column title as it appea
 
 # Constraints
 
-- 1 <= columnNumber <= 2^31 - 1
+- 1 <= columnNumber <= 2<sup>31</sup> - 1
 
 # Thoughts
 
