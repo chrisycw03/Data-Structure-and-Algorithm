@@ -1,5 +1,11 @@
 # Description
+
 Given the root of a Binary Search Tree (BST), return the minimum absolute difference between the values of any two different nodes in the tree.
+
+# Constraints
+
+- The number of nodes in the tree is in the range [2, 10<sup>4</sup>].
+- 0 <= Node.val <= 10<sup>5</sup>
 
 # Thought
 * 因為是二元搜尋樹，使用中序遍歷可以得到由小到大排列的值
