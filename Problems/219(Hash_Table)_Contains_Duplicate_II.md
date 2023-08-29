@@ -4,9 +4,9 @@ Given an integer array nums and an integer k, return true if there are two disti
 
 # Constraints
 
-- 1 <= nums.length <= 10^5
-- -10^9 <= nums[i] <= 10^9
-- 0 <= k <= 10^5
+- 1 <= nums.length <= 10<sup>5</sup>
+- -10<sup>9 <= nums[i] <= 10<sup>9</sup>
+- 0 <= k <= 10<sup>5</sup>
 
 # Thoughts
 
