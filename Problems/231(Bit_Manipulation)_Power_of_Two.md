@@ -5,7 +5,7 @@ An integer n is a power of two, if there exists an integer x such that n == 2^x.
 
 # Constraints
 
-- -2^31 <= n <= 2^31 - 1
+- -2<sup>31</sup> <= n <= 2<sup>31</sup> - 1
 
 # Thoughts
 
