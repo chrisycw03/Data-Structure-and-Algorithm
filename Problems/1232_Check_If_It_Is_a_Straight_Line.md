@@ -6,7 +6,7 @@ You are given an array coordinates, coordinates[i] = [x, y], where [x, y] repres
 
 - 2 <= coordinates.length <= 1000
 - coordinates[i].length == 2
-- -10^4 <= coordinates[i][0], coordinates[i][1] <= 10^4
+- -10^4 <= coordinates[i][0], coordinates[i][1] <= 10<sup>4</sup>
 coordinates contains no duplicate point.
 
 # Thoughts
