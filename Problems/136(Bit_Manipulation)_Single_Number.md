@@ -5,8 +5,8 @@ You must implement a solution with a linear runtime complexity and use only cons
 
 # Constraints
 
-- 1 <= nums.length <= 3 * 104
-- -3 * 104 <= nums[i] <= 3 * 104
+- 1 <= nums.length <= 3 * 10<sup>4</sup>
+- -3 * 10<sup>4</sup> <= nums[i] <= 3 * 10<sup>4</sup>
 - Each element in the array appears twice except for one element which appears only once.
 
 # Thoughts
