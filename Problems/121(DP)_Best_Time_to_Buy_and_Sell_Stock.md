@@ -6,6 +6,11 @@ You want to maximize your profit by choosing a single day to buy one stock and c
 
 Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
 
+# Constraints
+
+- 1 <= prices.length <= 10<sup>5</sup>
+- 0 <= prices[i] <= 10<sup>4</sup>
+
 # Thought
 
 * Dynamic Programing
