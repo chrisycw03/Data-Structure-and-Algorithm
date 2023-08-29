@@ -8,7 +8,7 @@ All occurrences of a character must be replaced with another character while pre
 
 # Constraints
 
-- 1 <= s.length <= 5 * 10^4
+- 1 <= s.length <= 5 * 10<sup>4</sup>
 - t.length == s.length
 - s and t consist of any valid ascii character.
 
