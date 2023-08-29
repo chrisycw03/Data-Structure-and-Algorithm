@@ -2,14 +2,12 @@
 
 Given an integer rowIndex, return the rowIndexth (0-indexed) row of the Pascal's triangle.
 
-In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
-
 # Thought
 
 * 方法一:利用組合算出地i層的每個元素
 	* 第i層第j個元素為C i取j
 * 方法二:利用previous row計算current row的每個元素
-* 方法一跟方法二的時間複雜度都是O[N^2]，但是想法一在計算組合的時候會碰到數字相乘的積超過INT_MAX，需要使用unsigned類型
+* 方法一跟方法二的時間複雜度都是O[N<sup>2</sup>]，但是想法一在計算組合的時候會碰到數字相乘的積超過INT_MAX，需要使用unsigned類型
 * 實際提交的結果方法二要快於方法一
 
 # Code
